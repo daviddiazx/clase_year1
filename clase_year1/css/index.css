@@ -1,0 +1,62 @@
+body{
+    background-color: beige;
+}   
+
+header{
+    font-size: 100px;
+    position: relative;
+    left: 500px;
+}
+
+nav{
+    margin: 1px;
+    padding: 9px;
+}
+
+nav a{
+    margin: 175px;
+    text-decoration: none;
+    font-size: 25px;
+    position: relative;
+    right: 35px;
+}
+
+img{
+    height: 500px;
+    width: 800px;
+}
+
+#contenedor {
+    margin-top: 3%;
+    margin-left: -6%;
+    background-color: blueviolet;
+}
+#parrafo{
+    width: 1000px;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+    color: antiquewhite;
+    font-size: 40px;
+    
+}
+
+a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+button{
+
+    width: 150px;
+
+    height: 25px;
+    position: absolute;
+    left: 600px;
+    top: 680px;
+    background-color: cyan;
+    font-size: medium;
+    border-radius: 10px;}
+
+#botom:hover{
+    background-color: blue;
+}
